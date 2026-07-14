@@ -1,21 +1,22 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A44EF7&background=FF424200&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Julio+Fernandes+Paz!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A44EF7&background=FF424200&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Julio+Fernandes+Paz!+" alt="Typing SVG" /></a> :godmode:
 </p>
 
-:godmode:
+
 
 <div align="center" >
 Seja bem-vindo ao meu perfil do GitHub! 
 Sou de Vitória-Es e atualmente estou em plena transição de carreira, migrando com muita dedicação para a área de tecnologia com foco em Desenvolvimento Front-end. 
 </div>
-
-Criando projetos com :
+<br>
+<div align="center" >Criando projetos com :
 
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="40px" alt="html-logo"> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="40px alt=css-logo">
-
-Em breve :
+</div>
+<div align="center" > Em breve :
 <br>
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="40px" alt="java-logo">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="40px" alt="react-logo">
+</div>
 
 __________________________________________________________________________________________________________________________
 <br>
