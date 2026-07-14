@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá, eu sou o Julio Paz! :godmode:
 
-<!--
-**jfernandespaz86/jfernandespaz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil do GitHub! 
+Sou de Vitória-Es e atualmente estou em plena transição de carreira, migrando com muita dedicação para a área de tecnologia com foco em Desenvolvimento Front-end. 
 
-Here are some ideas to get you started:
+Criando projetos com :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="40px" alt="html-logo"> <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="40px alt=css-logo">
+
+Em breve :
+<br>
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="40px" alt="java-logo">  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg" width="40px" alt="react-logo">
+__________________________________________________________________________________________________________________________
+<br>
+📈 Objetivos:
+Meu objetivo inicial é conquistar uma oportunidade como Desenvolvedor Front-end onde eu possa  colaborar em equipe e continuar evoluindo sempre.
+<br>
+
+
+<br>
+<br>
+Minhas Redes Sociais:
+<br>
+<a href="https://www.linkedin.com/in/julio-fernandes-paz-1aba17149/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" width="50px" /></a>
+<br>
+<br>
+<br>
+<br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=jfernadespaz86&langs_count=4&theme=chartreuse-dark">
+<img src="https://github-stats-extended.vercel.app/api?username=jfernadespaz86&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark"> 
+
